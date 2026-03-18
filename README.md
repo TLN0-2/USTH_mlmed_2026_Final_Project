@@ -1,4 +1,4 @@
-# USTH_mlmed_2026_Final_Project
+# USTH_mlmed_2026_Final_Project: Brain Tumor Classification
 Team ID: 9 
 
 Team member:  
